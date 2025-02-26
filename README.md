@@ -15,6 +15,8 @@ MyParalegal is an intelligent legal assistant that utilizes **Natural Language P
 - Natural Language Processing (NLP)  
 - Machine Learning    
 
+<!-- Uploading "MyParalegal_Demo.mp4"... -->
+
 ## Usage  
 1. Clone the repository:  
    ```sh
